@@ -1,0 +1,11 @@
+.project_container {
+  padding: 2em;
+  width: 100%; /* Isso faz a caixa ocupar a tela toda, permitindo que o botão vá para a direita */
+}
+
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+}
